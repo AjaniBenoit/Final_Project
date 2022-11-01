@@ -1,0 +1,31 @@
+"Core Outcome Measures",,"Year",,,,,,,,,
+,,"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020"
+"Traffic Fatalities","Total (C-1)",55,77,69,44,57,62,69,68,47,62
+,"Rural",42,63,58,37,48,52,56,60,42,49
+,"Urban",13,14,11,7,9,10,13,7,5,13
+,"Unknown",0,0,0,0,0,0,0,1,0,0
+"Fatalities Per 100 Million VMT","Total (C-3)",0.77,1.07,0.97,0.62,0.78,0.84,0.93,0.93,0.64,1.03
+,"Rural",0.80,1.18,1.10,0.74,0.92,0.99,1.06,1.15,0.80,1.15
+,"Urban",0.70,0.75,0.59,0.34,0.43,0.47,0.61,0.33,0.24,0.75
+"Passenger Vehicle Occupant Fatalities (All Seat Positions)","Total",42,52,51,27,34,45,45,52,32,38
+,"Restrained",24,17,28,11,14,24,21,20,17,15
+,"Unrestrained (C-4)",17,34,21,14,17,20,20,30,15,23
+,"Unknown",1,1,2,2,3,1,4,2,0,0
+"Alcohol-Impaired Driving Fatalities (BAC=.08+)** (C-5)",,18,24,19,8,15,28,18,15,9,18
+"Speeding-Related Fatalities (C-6)",,20,33,18,15,21,29,31,25,22,17
+"Motorcyclist Fatalities","Total (C-7)",8,11,7,7,11,11,13,7,8,10
+,"Helmeted",7,9,5,6,11,9,13,5,6,9
+,"Unhelmeted (C-8)",1,2,2,1,0,2,0,1,1,1
+
+,"Unknown",0,0,0,0,0,0,0,1,1,0
+"Drivers Involved in Fatal Crashes","Total",66,96,89,60,69,77,93,86,68,79
+,"Aged Under 15",0,0,0,1,0,0,0,0,0,0
+,"Aged 15-20",7,7,10,6,5,3,5,8,4,8
+,"Aged Under 21 (C-9)",7,7,10,7,5,3,5,8,4,8
+,"Aged 21 and Over",59,88,78,53,64,74,88,78,64,70
+,"Unknown Age",0,1,1,0,0,0,0,0,0,1
+"Pedestrian Fatalities (C-10)",,3,10,5,5,5,4,8,6,3,8
+"Bicyclist and Other Cyclist Fatalities**** (C-11)",,0,0,0,0,4,1,0,0,0,1
+"Observed Seat Belt Use*** (B-1)",,85,84,85,84,85,80,85,90,89,89
+
+
