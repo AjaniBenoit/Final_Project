@@ -8,7 +8,7 @@ Our topic is an analysis of DUI and accident data.
 
 ### Communication Protocol
 
-Group 4 will meet on Monday, Wednesday and Sunday to work on the Project. In addtion to meeting, Group 4 has a dedicated Slack channel that members can post comments, questions or updates.
+Group 4 will meet on Monday, Wednesday and Sunday to work on the Project. In addition to meeting, Group 4 has a dedicated Slack channel that members can post comments, questions or updates.
 
 GitHub will be used to store all project related date and files. Each group member is assigned a primary and back-up role for the duration of the project. 
 
