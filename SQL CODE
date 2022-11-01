@@ -1,0 +1,54 @@
+--Create US States Table 
+CREATE TABLE US_States(
+	States VARCHAR(40) NOT NULL, 
+	Region VARCHAR(40) NOT NULL, 
+	Division VARCHAR(40) NOT NULL,
+	PRIMARY KEY (States))
+;
+
+SELECT * FROM US_States;
+
+--Create Performance Measure Table 
+CREATE TABLE Performance_measure (
+	States VARCHAR(40) NOT NULL,
+	Coure_Outcome VARCHAR(70),
+	Measure VARCHAR (40),
+	YEAR_2011 DECIMAL,
+	YEAR_2012 DECIMAL,
+	YEAR_2013 DECIMAL, 
+	YEAR_2014 DECIMAL,
+	YEAR_2015 DECIMAL,
+	YEAR_2016 DECIMAL, 
+	YEAR_2017 DECIMAL, 
+	YEAR_2018 DECIMAL, 
+	YEAR_2019 DECIMAL, 
+	YEAR_2020 DECIMAL, 
+FOREIGN KEY (States) REFERENCES US_States (States))
+;
+SELECT * FROM Performance_measure;
+-- Create STSI Table 
+CREATE TABLE STSI (
+	Years INT NOT NULL, 
+	States VARCHAR (40) NOT NULL, 
+	Total_Fatalities INT NOT NULL, 
+	Number_Alcohol_Impaired_Driving_Fatalities_BAC_POINT_08 INT NOT NULL, 
+	Percentage_Alcohol_Impaired_Driving_Fatalities_BAC_POINT_08 INT NOT NULL,
+	PER_100_MILLION_VMT_Alcohol_Impaired_Driving_Fatalities_BAC_POINT_08 DECIMAL NOT NULL,
+FOREIGN KEY (States) REFERENCES US_States (States))
+;
+SELECT * FROM STSI;
+
+-- Creating table 1
+CREATE TABLE Table_1 (
+  Years INT NOT NULL, 
+	States VARCHAR (40) NOT NULL, 
+	Fatalities INT NOT NULL, 
+	Total_VMT_Millions INT NOT NULL, 
+	Fatalities_Per_100_Million_Vehicles_Miles_Traveled DECIMAL NOT NULL,
+	Total_Population INT NOT NULL, 
+	Fatalities_Per_100000_Population DECIMAL NOT NULL,
+FOREIGN KEY (States) REFERENCES US_States (States))
+;
+SELECT * FROM Table_1;
+
+
