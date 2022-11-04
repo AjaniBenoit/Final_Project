@@ -40,10 +40,12 @@ Webiste: https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
 
 ### Questions we hope to answer
 
-1. What state has the highest rate of DUI fatalities?
-2. Are DUI fatalities increasing or decreasing? 
-3. What states has the highest and lowest frequency of DUI fatalities?
-4. Do DUI fatalities account for the majority of vehicle fatalities? 
+1.	Are traffic fatalities increasing or decreasing across all 50 States?
+2.	What state has the highest and lowest rate of traffic fatalities?
+3.	Are DUI fatalities increasing or decreasing across all 50 States?
+4.	Can we predict the number of traffic fatalities for 2021 using Machine learning?
+
+
 
 ### Machine learning
 
