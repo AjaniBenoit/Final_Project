@@ -84,3 +84,6 @@ Group Four intend to join the us_state table with the performance_measure table 
 
 
 ![QuickDBD-export(1).png](https://github.com/pperlinski/Final-Project/blob/main/QuickDBD-export%20(1).png)
+
+
+### Data Visualization
