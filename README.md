@@ -55,6 +55,8 @@ The cleaned Performance_measure data frame was read into a .csv file to be used 
 
 The STSI_Combined.csv file and Table_1 file were both loaded and read into separate data frames. The data frames were then merged. Duplicate columns were dropped.  The mean and standard deviation was calculated for each state as well as for the years between 2016 and 2020.
 
+[EDA Final Project .ipynb](https://github.com/AjaniBenoit/Final_Project/blob/main/EDA%20CODE/EDA%20Final%20Project%20.ipynb)
+
 
 ### Machine learning
 
