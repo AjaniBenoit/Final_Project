@@ -2,7 +2,7 @@
 ## Group 4 Final Project
 
 
-### Analyzing US Traffic Fatality Data Across 50 States From 2011 to 2020 ![image](https://user-images.githubusercontent.com/106286515/199873160-2b072f15-faef-4ba7-b5a7-daafb5f1d44c.png)
+### Analyzing US Traffic Fatality Data Across 50 States From 2011 to 2020
 
 ### Communication Protocol
 
