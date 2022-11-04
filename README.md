@@ -2,9 +2,7 @@
 ## Group 4 Final Project
 
 
-### Selected Topic
-
-Our topic is an analysis of DUI and accident data.
+### Analyzing US Traffic Fatality Data Across 50 States From 2011 to 2020 ![image](https://user-images.githubusercontent.com/106286515/199873160-2b072f15-faef-4ba7-b5a7-daafb5f1d44c.png)
 
 ### Communication Protocol
 
@@ -14,17 +12,30 @@ GitHub will be used to store all project related date and files. Each group memb
 
 ### Reason why topic was selected 
 
-Availibility of data, ease and high potential for interesting graphs and visualizations, finding a common ground topic between CDC health data and consumer automotive data that we were interested in.
+In initial discussion among the group, members were divided between selecting a topic related vehicular data and public health data. 
+
+While completing our initial search for data, group realized that a vehicular and public health data could be merged into one project. We decided initially to explore DUI vehicular fatalities. 
+
+As the group worked on the project, we made the decision to look at vehicular fatalities in general. Cause of the traffic fatalities such as DUI, speeding could further be refined later in our project. 
+
 
 ### Description of Data source
 
 Raw data comes from National Highway Traffic Safety Administration data tables. Data was downloaded for 50 states. A total of 150 .csv files were downloaded and then combined into 3 .csv files using terminal and the following command "*.csv >combine.csv". The combined .csv files were then cleaned using Excel, duplicate entries were removed from the cleaned files. 
+
+The States Name, Region and Division was pulled from US Census Website and consolidated into .csv file. 
+
+Website: https://cdan.nhtsa.gov/SASStoredProcess/guest
+
+Webiste: https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
 
 [Performance_measure.csv](https://github.com/pperlinski/Final-Project/blob/main/Performance_measure.csv)
 
 [STSI Combined.csv](https://github.com/pperlinski/Final-Project/blob/main/STSI%20Combined%20.csv)
 
 [Table 1 Combined.csv](https://github.com/pperlinski/Final-Project/blob/main/Table%201%20Combined.csv)
+
+[U.S. Census Bureau Regions and Divisions with State.csv](https://github.com/AjaniBenoit/Final_Project/blob/main/U.S.%20Census%20Bureau%20Regions%20and%20Divisions%20with%20State.csv)
 
 
 ### Questions we hope to answer
