@@ -70,6 +70,17 @@ We will like to develop a model that predicts trends involving vehicle fatalitie
 
 ### Database
 
-SQL and Postgres will be used to construct the database. The ERD below shows a draft of the database structure. 
+Four tables were created using SQL and Postgres. The first table named us_states contained the State’s name, the State Region and the State Division.  The State was assigned as the primary key. 
+
+The second table named performance_measure contained the State’s name, core outcome, measure and years from 2011 through 2020. No primary key was assigned to this table. The State was used as the foreign key. 
+
+The third table named STSI contained the State’s name, years, total fatalities, number of alcohol impaired driving fatalities, 100 million vehicle miles traveled for alcohol impaired driving fatalities, and percentage of alcohol impaired driving fatalities with a blood alcohol content greater than .08. No primary key was assigned to this table. The State was used as the foreign key. 
+
+The Fourth table named Table_1 contained years, State’s name, fatalities, total vehicle miles traveled per million, fatalities per 100 million VMT. Total population, and fatalitie per 100 thousand population. No primary key was assigned to this table. The State was used as the foreign key. 
+
+Group Four intend to join the us_state table with the performance_measure table so that the table could be further filtered down to region, allowing for a comparison of traffic related data by region. 
+
+[SQL CODE](https://github.com/AjaniBenoit/Final_Project/blob/main/SQL%20CODE)
+
 
 ![QuickDBD-export(1).png](https://github.com/pperlinski/Final-Project/blob/main/QuickDBD-export%20(1).png)
