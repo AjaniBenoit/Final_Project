@@ -45,6 +45,15 @@ Webiste: https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
 3.	Are DUI fatalities increasing or decreasing across all 50 States?
 4.	Can we predict the number of traffic fatalities for 2021 using Machine learning?
 
+### Exploratory Data Analysis 
+
+Python and Jupyter Notebook were used to complete an exploratory analysis of the Performance_measure.csv file, STSI_Combined.csv file and the Table_1.csv file. 
+
+The Performance_measure.csv file was loaded and read into a data frame. For the initial analysis of the data it was determined that we would only examine Core Outcomes that were Traffic Fatalities. All other outcomes were removed from the database. The mean and standard deviation was calculated for each State from 2011 to 2020. 
+
+The cleaned Performance_measure data frame was read into a .csv file to be used in the Machine learning portion of the project. 
+
+The STSI_Combined.csv file and Table_1 file were both loaded and read into separate data frames. The data frames were then merged. Duplicate columns were dropped.  The mean and standard deviation was calculated for each state as well as for the years between 2016 and 2020.
 
 
 ### Machine learning
@@ -55,6 +64,7 @@ Supervised Learning- bese on labeled data, the data retrieved is clean and prepa
 
 
 We will like to develop a model that predicts trends involving vehicle fatalities across all 50 states. 
+
 
 ### Database
 
