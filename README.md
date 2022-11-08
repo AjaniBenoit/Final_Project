@@ -7,13 +7,13 @@ Google Presentation link: https://docs.google.com/presentation/d/1Yob9NpsWEybTFW
 
 ### Communication Protocol
 
-Group 4 will meet on Monday, Wednesday and Sunday to work on the Project. In addition to meeting, Group 4 has a dedicated Slack channel that members can post comments, questions or updates.
+Group 4 will meet on Monday, Wednesday and Sunday to work on the Project. In addition to the meeting, Group 4 has a dedicated Slack channel that members can post comments, questions or updates.
 
 GitHub will be used to store all project related date and files. Each group member is assigned a primary and back-up role for the duration of the project. 
 
 ### Reason why topic was selected 
 
-In initial discussion among the group, members were divided between selecting a topic related vehicular data and public health data. 
+In the initial discussion among the group, members were divided between selecting a topic related to vehicular data and public health data. 
 
 While completing our initial search for data, group realized that a vehicular and public health data could be merged into one project. We decided initially to explore DUI vehicular fatalities. 
 
@@ -63,7 +63,7 @@ The STSI_Combined.csv file and Table_1 file were both loaded and read into separ
 
 The set up is based on creating a machine learning environment that will imitate a model that will perform a statistical algorithms, by inputing data into the machine learning environment to study patterns and make predictions by using mathematical representaion of the input data.
 
-Supervised Learning- bese on labeled data, the data retrieved is clean and prepare for machine learning environment. import of dependencies are placed in the first cell of the machine learning notebook i.e import pandasas pd, from pathlib import pat, import matplotlib.pyplotas plt and from sklearn.linear_model import LinearRegression
+Supervised Learning- based on labeled data, the data retrieved is clean and prepared for machine learning environment. Import of dependencies are placed in the first cell of the machine learning notebook i.e import pandasas pd, from pathlib import pat, import matplotlib.pyplotas plt and from sklearn.linear_model import LinearRegression.
 
 
 We will like to develop a model that predicts trends involving vehicle fatalities across all 50 states. 
@@ -96,7 +96,7 @@ Tableua was used to create an interactive dashboard and story to visualize the d
 3. A map of the US displaying the average fatalities per 100,000 population per State from 2016 to 2020.  
 4. Bargraphs comparing urban vs rural traffic fatalities from 2016 to 2020. The user is able to filter the table to  display urban, rural, unknown and total fatalities. 
 5. A line graph displaying the average percent of alcohol impaired fatalities from 2016 to 2020.
-6. A map displaying the average alcohol impaired fatlities from 2016 to 2020. 
+6. A map displaying the average alcohol impaired fatalities from 2016 to 2020. 
 7. A line graph displaying the average percent of alcohol impaired fatalities brokendown by State from 2016 to 2020. The user is able to filter the graph by State. 
 
 https://public.tableau.com/shared/TTMBTMD2P?:display_count=n&:origin=viz_share_link
