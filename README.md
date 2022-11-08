@@ -87,3 +87,15 @@ Group Four intend to join the us_state table with the performance_measure table 
 
 
 ### Data Visualization
+
+Tableua was used to create an interactive dashboard and story to visualize the data. The story and dashboard contains the following:
+
+1. A line graph representing average fatalities per 100,000 Population for the all 50 US States from 2016 to 2020
+2. A line graph representing average fatalities per 100,000 population brokendown by State from 2016 to 2020. The user is able to filter the graph by State. 
+3. A map of the US displaying the average fatalities per 100,000 population per State from 2016 to 2020.  
+4. Bargraphs comparing urban vs rural traffic fatalities from 2016 to 2020. The user is able to filter the table to  display urban, rural, unknown and total fatalities. 
+5. A line graph displaying the average percent of alcohol impaired fatalities from 2016 to 2020.
+6. A map displaying the average alcohol impaired fatlities from 2016 to 2020. 
+7. A line graph displaying the average percent of alcohol impaired fatalities brokendown by State from 2016 to 2020. The user is able to filter the graph by State. 
+
+https://public.tableau.com/shared/TTMBTMD2P?:display_count=n&:origin=viz_share_link
