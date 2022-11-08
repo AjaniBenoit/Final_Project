@@ -15,7 +15,7 @@ GitHub will be used to store all project related date and files. Each group memb
 
 In the initial discussion among the group, members were divided between selecting a topic related to vehicular data and public health data. 
 
-While completing our initial search for data, group realized that a vehicular and public health data could be merged into one project. We decided initially to explore DUI vehicular fatalities. 
+While completing our initial search for data, group realized that the vehicular and public health data could be merged into one project. We decided initially to explore DUI vehicular fatalities. 
 
 As the group worked on the project, we made the decision to look at vehicular fatalities in general. Cause of the traffic fatalities such as DUI, speeding could further be refined later in our project. 
 
